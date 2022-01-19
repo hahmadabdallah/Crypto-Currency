@@ -1,12 +1,13 @@
-# project-management-students 
+# Crypto-Currency
+
 
 ## Used technologies:
  <b> Front End </b>
     <ul>
-    <li> React JS</li>
-    
-        <li> Material UI</li>
-          <li>Chart JS</li>
+     <li> React JS</li>
+     <li> Material UI</li>
+     <li>Chart JS</li>
+       
     </ul>
   
 ## Running Steps
