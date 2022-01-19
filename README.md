@@ -6,8 +6,7 @@
     <ul>
      <li> React JS</li>
      <li> Material UI</li>
-     <li>Chart JS</li>
-       
+     <li>Chart JS</li>   
     </ul>
   
 ## Running Steps
