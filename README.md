@@ -12,7 +12,7 @@
 ## Running Steps
    ### Install
    $  npm install @material-ui/core
-     $  npm install @material-ui/lab
+     $npm install @material-ui/lab
      $  npm i react-router-dom
      $  npm i axios
      $  npm i react-alice-carousel
