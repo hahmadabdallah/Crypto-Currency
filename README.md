@@ -12,11 +12,11 @@
 ## Running Steps
    ### Install
    $  npm install @material-ui/core
-   $  npm install @material-ui/lab
-   $  npm i react-router-dom
-   $  npm i axios
-   $  npm i react-alice-carousel
-   $  npm install --save react-chartjs-2 chart.js
+     $  npm install @material-ui/lab
+     $  npm i react-router-dom
+     $  npm i axios
+     $  npm i react-alice-carousel
+     $  npm install --save react-chartjs-2 chart.js
 
 https://www.coingecko.com/en/api/documentation ( API)
   
